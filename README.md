@@ -2,4 +2,4 @@
 
 A repository for SE100: Responsive Web Development
 
-Testing
+SE100 will help you build a robust groundwork for your software engineering career by acquiring foundational web development skills.
