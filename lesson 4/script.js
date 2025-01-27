@@ -283,7 +283,7 @@
 
 // extra practice
 
-const data = [[1, 2, 3, 4]. [2, 3, 4, 5]];
+const data = [[1, 2, 3, 4], [2, 3, 4, 5]];
 
 let result = 0
 for (let num of data) {
